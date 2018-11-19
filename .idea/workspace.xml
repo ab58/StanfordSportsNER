@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4a3af890-f2af-4da0-bb0a-17bb5328abd1" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/unseen_files.tsv" afterPath="$PROJECT_DIR$/unseen_files.tsv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -116,7 +116,7 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="491" />
-    <option name="y" value="2" />
+    <option name="y" value="6" />
     <option name="width" value="1217" />
     <option name="height" value="857" />
   </component>
@@ -222,7 +222,7 @@
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="TSVConvert" />
       <option name="VM_PARAMETERS" value="" />
-      <option name="PROGRAM_PARAMETERS" value="C:\Users\arjunb\Documents\workspace\StanfordCoreNLP\unseen_files unseen_files.tsv" />
+      <option name="PROGRAM_PARAMETERS" value="" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
@@ -337,7 +337,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="491" y="2" width="1217" height="857" extended-state="0" />
+    <frame x="491" y="6" width="1217" height="857" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
