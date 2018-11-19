@@ -6,8 +6,9 @@ serve as my training set, and game recap articles from Week 10 of the season ser
 using the program spacy_tokenize.py, which is found in my other repo, Sports_NER. In the Sports_NER repo, I attempted to build and train a 
 similar NER model for the sports domain, using python's spaCy. I was disappointed with the perofrmance of this, however, and found 
 StanfordCoreNLP's CRF-based NER model much more effective and better to work with. The CRF model takes roughly 35 minutes to train with 
-the current NER feature specifications provided in propfile.txt. All data was labeled personally by me. Performance is very high, 
-0.9990 on training and 0.9907 on the test set.
+the current NER feature specifications provided in propfile.txt. All data was labeled personally by me.  Training files used 
+arelocated in the folder 2018_nfl_regular_season. Test files are in the folder unseen_files. Stanford's NER model accepts a file in TSV 
+format, under a specific token-label structure, line by line, tab-separated. The fully labeled training set is in Sports_NER.tsv, and the test set is in unseen_files.tsv. Performance is very high, 0.9990 on training and 0.9907 on the test set.
 
 Despite the high overall accuracy, there are some named entity classes that do not perform well. All of these are outlined in the results 
 files for training and testing. It is mostly NER classes that are sparsely populated throughout the data that struggle with recall, and 
