@@ -2,7 +2,158 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4a3af890-f2af-4da0-bb0a-17bb5328abd1" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_test/110818_panthers_steelers.txt.tagged" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_test/111118_bills_jets.txt.tagged" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_test/111118_cardinals_chiefs.txt.tagged" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_test/111118_chargers_raiders.txt.tagged" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_test/111118_cowboys_eagles.txt.tagged" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_test/111118_dolphins_packers.txt.tagged" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_test/111118_falcons_browns.txt.tagged" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_test/111118_jaguars_colts.txt.tagged" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_test/111118_lions_bears.txt.tagged" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_test/111118_patriots_titans.txt.tagged" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_test/111118_redskins_buccaneers.txt.tagged" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_test/111118_saints_bengals.txt.tagged" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_test/111118_seahawks_rams.txt.tagged" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_test/111218_giants_49ers.txt.tagged" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/090618_falcons_eagles.txt.tagged" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/090918_49ers_vikings.txt.tagged" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/090918_bears_packers.txt.tagged" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/090918_bengals_colts.txt.tagged" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/090918_bills_ravens.txt.tagged" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/090918_buccaneers_saints.txt.tagged" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/090918_chiefs_chargers.txt.tagged" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/090918_cowboys_panthers.txt.tagged" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/090918_jaguars_giants.txt.tagged" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/090918_redskins_cardinals.txt.tagged" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/090918_seahawks_broncos.txt.tagged" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/090918_steelers_browns.txt.tagged" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/090918_texans_patriots.txt.tagged" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/090918_titans_dolphins.txt.tagged" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/091018_jets_lions.txt.tagged" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/091018_rams_raiders.txt.tagged" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/091318_ravens_bengals.txt.tagged" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/091618_browns_saints.txt.tagged" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/091618_cardinals_rams.txt.tagged" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/091618_chargers_bills.txt.tagged" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/091618_chiefs_steelers.txt.tagged" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/091618_colts_redskins.txt.tagged" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/091618_dolphins_jets.txt.tagged" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/091618_eagles_buccaneers.txt.tagged" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/091618_giants_cowboys.txt.tagged" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/091618_lions_49ers.txt.tagged" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/091618_panthers_falcons.txt.tagged" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/091618_patriots_jaguars.txt.tagged" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/091618_raiders_broncos.txt.tagged" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/091618_texans_titans.txt.tagged" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/091618_vikings_packers.txt.tagged" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/091718_seahawks_bears.txt.tagged" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/092018_jets_browns.txt.tagged" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/092318_49ers_chiefs.txt.tagged" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/092318_bears_cardinals.txt.tagged" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/092318_bengals_panthers.txt.tagged" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/092318_bills_vikings.txt.tagged" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/092318_broncos_ravens.txt.tagged" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/092318_chargers_rams.txt.tagged" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/092318_colts_eagles.txt.tagged" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/092318_cowboys_seahawks.txt.tagged" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/092318_giants_texans.txt.tagged" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/092318_packers_redskins.txt.tagged" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/092318_patriots_lions.txt.tagged" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/092318_raiders_dolphins.txt.tagged" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/092318_saints_falcons.txt.tagged" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/092318_titans_jaguars.txt.tagged" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/092418_steelers_buccaneers.txt.tagged" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/092718_vikings_rams.txt.tagged" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/093018_49ers_chargers.txt.tagged" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/093018_bengals_falcons.txt.tagged" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/093018_bills_packers.txt.tagged" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/093018_browns_raiders.txt.tagged" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/093018_buccaneers_bears.txt.tagged" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/093018_dolphins_patriots.txt.tagged" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/093018_eagles_titans.txt.tagged" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/093018_jets_jaguars.txt.tagged" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/093018_lions_cowboys.txt.tagged" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/093018_ravens_steelers.txt.tagged" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/093018_saints_giants.txt.tagged" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/093018_seahawks_cardinals.txt.tagged" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/093018_texans_colts.txt.tagged" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/100118_chiefs_broncos.txt.tagged" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/100418_colts_patriots.txt.tagged" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/100718_broncos_jets.txt.tagged" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/100718_cardinals_49ers.txt.tagged" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/100718_cowboys_texans.txt.tagged" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/100718_dolphins_bengals.txt.tagged" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/100718_falcons_steelers.txt.tagged" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/100718_giants_panthers.txt.tagged" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/100718_jaguars_chiefs.txt.tagged" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/100718_packers_lions.txt.tagged" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/100718_raiders_chargers.txt.tagged" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/100718_rams_seahawks.txt.tagged" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/100718_ravens_browns.txt.tagged" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/100718_titans_bills.txt.tagged" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/100718_vikings_eagles.txt.tagged" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/100818_redskins_saints.txt.tagged" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/101118_eagles_giants.txt.tagged" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/101418_bears_dolphins.txt.tagged" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/101418_bills_texans.txt.tagged" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/101418_buccaneers_falcons.txt.tagged" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/101418_cardinals_vikings.txt.tagged" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/101418_chargers_browns.txt.tagged" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/101418_chiefs_patriots.txt.tagged" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/101418_colts_jets.txt.tagged" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/101418_jaguars_cowboys.txt.tagged" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/101418_panthers_redskins.txt.tagged" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/101418_rams_broncos.txt.tagged" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/101418_ravens_titans.txt.tagged" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/101418_seahawks_raiders.txt.tagged" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/101418_steelers_browns.txt.tagged" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/101518_49ers_packers.txt.tagged" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/101818_broncos_cardinals.txt.tagged" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/102118_bengals_chiefs.txt.tagged" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/102118_bills_colts.txt.tagged" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/102118_browns_buccaneers.txt.tagged" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/102118_cowboys_redskins.txt.tagged" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/102118_lions_dolphins.txt.tagged" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/102118_panthers_eagles.txt.tagged" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/102118_patriots_bears.txt.tagged" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/102118_rams_49ers.txt.tagged" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/102118_saints_ravens.txt.tagged" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/102118_texans_jaguars.txt.tagged" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/102118_titans_chargers.txt.tagged" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/102118_vikings_jets.txt.tagged" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/102218_giants_falcons.txt.tagged" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/102518_dolphins_texans.txt.tagged" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/102818_49ers_cardinals.txt.tagged" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/102818_broncos_chiefs.txt.tagged" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/102818_browns_steelers.txt.tagged" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/102818_buccaneers_bengals.txt.tagged" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/102818_colts_raiders.txt.tagged" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/102818_eagles_jaguars.txt.tagged" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/102818_jets_bears.txt.tagged" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/102818_packers_rams.txt.tagged" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/102818_ravens_panthers.txt.tagged" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/102818_redskins_giants.txt.tagged" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/102818_seahawks_lions.txt.tagged" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/102918_patriots_bills.txt.tagged" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/110118_raiders_49ers.txt.tagged" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/110418_bears_bills.txt.tagged" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/110418_buccaneers_panthers.txt.tagged" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/110418_chargers_seahawks.txt.tagged" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/110418_chiefs_browns.txt.tagged" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/110418_falcons_redskins.txt.tagged" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/110418_jets_dolphins.txt.tagged" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/110418_lions_vikings.txt.tagged" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/110418_packers_patriots.txt.tagged" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/110418_rams_saints.txt.tagged" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/110418_steelers_ravens.txt.tagged" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/110418_texans_broncos.txt.tagged" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/110518_titans_cowboys.txt.tagged" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Sports_NER.tsv.model" afterPath="$PROJECT_DIR$/Sports_NER.tsv.model" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/StanfordCoreNLP/StanfordNER.class" afterPath="$PROJECT_DIR$/out/production/StanfordCoreNLP/StanfordNER.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/features-true.txt" afterPath="$PROJECT_DIR$/features-true.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/StanfordNER.java" afterPath="$PROJECT_DIR$/src/StanfordNER.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,16 +165,13 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="StanfordNER.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="StanfordNER.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/StanfordNER.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="295">
-              <caret line="373" column="22" lean-forward="false" selection-start-line="373" selection-start-column="22" selection-end-line="373" selection-end-column="22" />
+            <state relative-caret-position="6358">
+              <caret line="383" column="86" lean-forward="false" selection-start-line="379" selection-start-column="8" selection-end-line="383" selection-end-column="86" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#3524#3540#0" expanded="true" />
-                <element signature="e#3600#3616#0" expanded="true" />
-                <element signature="e#3684#3700#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -42,9 +190,21 @@
       <file leaf-file-name="propfile.txt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/propfile.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="205">
+            <state relative-caret-position="527">
               <caret line="31" column="17" lean-forward="false" selection-start-line="31" selection-start-column="17" selection-end-line="31" selection-end-column="17" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="EventExtractor.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/EventExtractor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="129" column="0" lean-forward="true" selection-start-line="129" selection-start-column="0" selection-end-line="129" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -60,12 +220,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>sentences are not</find>
-      <find>&quot;</find>
-      <find>Broncos : Vi</find>
-      <find>sentences are not th</find>
-      <find>capable</find>
-      <find>Evaluation</find>
       <find>AWARD</find>
       <find>Smith and Peterson were playing their first game as Redskins and the two veterans made an impact from the start .</find>
       <find>Marrone was widely criticized for getting conservative in the title game . The Patriots trailed 20 - 10 in the fourth quarter of that one before rallying to win 24 - 20 and advancing to the Super Bowl .</find>
@@ -89,6 +243,13 @@
       <find>useword</find>
       <find>original size =</find>
       <find>-&gt;</find>
+      <find>event1: victory ended luck 's chance</find>
+      <find>Luck</find>
+      <find>victory ended Luck 's chance</find>
+      <find>event2: victory ended Luck 's chance</find>
+      <find>event1: victory ended Luck 's chance</find>
+      <find>Cincinnati has</find>
+      <find>doTagging</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -103,8 +264,10 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/TSVConvert.java" />
-        <option value="$PROJECT_DIR$/src/StanfordNER.java" />
         <option value="$PROJECT_DIR$/src/propfile.txt" />
+        <option value="$PROJECT_DIR$/src/StanfordNER.java" />
+        <option value="$PROJECT_DIR$/src/OpenIESample.java" />
+        <option value="$PROJECT_DIR$/src/EventExtractor.java" />
       </list>
     </option>
   </component>
@@ -115,8 +278,7 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="491" />
-    <option name="y" value="6" />
+    <option name="x" value="344" />
     <option name="width" value="1217" />
     <option name="height" value="857" />
   </component>
@@ -136,9 +298,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
-      <pane id="Scratches" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -183,6 +342,9 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scratches" />
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -203,7 +365,35 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TSVConvert">
+  <component name="RunManager" selected="Application.EventExtractor">
+    <configuration name="EventExtractor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="EventExtractor" />
+      <option name="VM_PARAMETERS" value="-Xmx2048m" />
+      <option name="PROGRAM_PARAMETERS" value="C:\Users\arjunb\Documents\workspace\StanfordCoreNLP\Sports_NER.tsv.model C:\Users\arjunb\Documents\workspace\StanfordCoreNLP\2018_nfl_regular_season" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="StanfordCoreNLP" />
+      <envs />
+    </configuration>
+    <configuration name="OpenIESample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="OpenIESample" />
+      <option name="VM_PARAMETERS" value="-Xmx2048m" />
+      <option name="PROGRAM_PARAMETERS" value="C:\Users\arjunb\Documents\workspace\StanfordCoreNLP\Sports_NER.tsv.model C:\Users\arjunb\Documents\workspace\StanfordCoreNLP\2018_nfl_regular_season" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="StanfordCoreNLP" />
+      <envs />
+    </configuration>
     <configuration name="StanfordNER" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="StanfordNER" />
@@ -313,13 +503,17 @@
       <properties />
       <listeners />
     </configuration>
-    <list size="2">
+    <list size="4">
       <item index="0" class="java.lang.String" itemvalue="Application.TSVConvert" />
       <item index="1" class="java.lang.String" itemvalue="Application.StanfordNER" />
+      <item index="2" class="java.lang.String" itemvalue="Application.OpenIESample" />
+      <item index="3" class="java.lang.String" itemvalue="Application.EventExtractor" />
     </list>
     <recent_temporary>
-      <list size="1">
-        <item index="0" class="java.lang.String" itemvalue="Application.StanfordNER" />
+      <list size="3">
+        <item index="0" class="java.lang.String" itemvalue="Application.EventExtractor" />
+        <item index="1" class="java.lang.String" itemvalue="Application.OpenIESample" />
+        <item index="2" class="java.lang.String" itemvalue="Application.StanfordNER" />
       </list>
     </recent_temporary>
   </component>
@@ -337,7 +531,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="491" y="6" width="1217" height="857" extended-state="0" />
+    <frame x="344" y="0" width="1217" height="857" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -348,12 +542,12 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.7713904" sideWeight="0.50291425" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32929993" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32689655" sideWeight="0.49708575" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.34068966" sideWeight="0.49708575" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2610199" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2653414" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -380,13 +574,46 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/StanfordNER.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6358">
+          <caret line="383" column="86" lean-forward="false" selection-start-line="379" selection-start-column="8" selection-end-line="383" selection-end-column="86" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TSVConvert.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="17" lean-forward="false" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/propfile.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="31" column="17" lean-forward="false" selection-start-line="31" selection-start-column="17" selection-end-line="31" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/EventExtractor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1870">
+          <caret line="121" column="58" lean-forward="true" selection-start-line="121" selection-start-column="58" selection-end-line="121" selection-end-column="58" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/StanfordNER.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#3524#3540#0" expanded="true" />
-            <element signature="e#3600#3616#0" expanded="true" />
-            <element signature="e#3684#3700#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -399,13 +626,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tagged_files_train/092318_bengals_panthers.txt.tagged">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/tagged_files_train/092318_bengals_panthers.txt.tagged" />
     <entry file="file://$PROJECT_DIR$/hs_err_pid46156.log">
       <provider selected="true" editor-type-id="LogFileEditorProvider">
         <state relative-caret-position="0">
@@ -417,31 +638,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/results.out">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="52">
-          <caret line="37" column="0" lean-forward="false" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/results.out" />
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/util/Comparator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="149" column="8" lean-forward="false" selection-start-line="149" selection-start-column="8" selection-end-line="149" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/propfile.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="205">
-          <caret line="31" column="17" lean-forward="false" selection-start-line="31" selection-start-column="17" selection-end-line="31" selection-end-column="17" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -453,15 +657,31 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/propfile.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="31" column="17" lean-forward="false" selection-start-line="31" selection-start-column="17" selection-end-line="31" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/OpenIESample.java" />
     <entry file="file://$PROJECT_DIR$/src/StanfordNER.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="295">
-          <caret line="373" column="22" lean-forward="false" selection-start-line="373" selection-start-column="22" selection-end-line="373" selection-end-column="22" />
+        <state relative-caret-position="6358">
+          <caret line="383" column="86" lean-forward="false" selection-start-line="379" selection-start-column="8" selection-end-line="383" selection-end-column="86" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#3524#3540#0" expanded="true" />
-            <element signature="e#3600#3616#0" expanded="true" />
-            <element signature="e#3684#3700#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/EventExtractor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="129" column="0" lean-forward="true" selection-start-line="129" selection-start-column="0" selection-end-line="129" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>

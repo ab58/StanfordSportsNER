@@ -39,10 +39,19 @@ public class StanfordNER {
         return CRFClassifier.getClassifierNoExceptions(modelPath);
     }
 
-    public static void doTagging(CRFClassifier model, String input, PrintWriter out) {
+    //Tagging method to call if you don't need it dumped to an output file
+    public static String doTagging(CRFClassifier model, String input) {
         input = input.trim();
-        out.println(model.classifyToString(input));
-        //out.println("\n");
+        String taggedString = model.classifyToString(input);
+        return taggedString;
+    }
+
+    //Tagging method to call if an output file containing the tagged string is required
+    public static String doTagging(CRFClassifier model, String input, PrintWriter out) {
+        input = input.trim();
+        String taggedString = model.classifyToString(input);
+        out.println(taggedString);
+        return taggedString;
     }
 
     public static String repeat(String s, int n) {
