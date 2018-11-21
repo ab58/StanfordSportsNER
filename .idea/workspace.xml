@@ -2,158 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4a3af890-f2af-4da0-bb0a-17bb5328abd1" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_test/110818_panthers_steelers.txt.tagged" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_test/111118_bills_jets.txt.tagged" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_test/111118_cardinals_chiefs.txt.tagged" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_test/111118_chargers_raiders.txt.tagged" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_test/111118_cowboys_eagles.txt.tagged" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_test/111118_dolphins_packers.txt.tagged" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_test/111118_falcons_browns.txt.tagged" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_test/111118_jaguars_colts.txt.tagged" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_test/111118_lions_bears.txt.tagged" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_test/111118_patriots_titans.txt.tagged" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_test/111118_redskins_buccaneers.txt.tagged" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_test/111118_saints_bengals.txt.tagged" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_test/111118_seahawks_rams.txt.tagged" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_test/111218_giants_49ers.txt.tagged" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/090618_falcons_eagles.txt.tagged" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/090918_49ers_vikings.txt.tagged" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/090918_bears_packers.txt.tagged" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/090918_bengals_colts.txt.tagged" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/090918_bills_ravens.txt.tagged" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/090918_buccaneers_saints.txt.tagged" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/090918_chiefs_chargers.txt.tagged" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/090918_cowboys_panthers.txt.tagged" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/090918_jaguars_giants.txt.tagged" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/090918_redskins_cardinals.txt.tagged" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/090918_seahawks_broncos.txt.tagged" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/090918_steelers_browns.txt.tagged" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/090918_texans_patriots.txt.tagged" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/090918_titans_dolphins.txt.tagged" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/091018_jets_lions.txt.tagged" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/091018_rams_raiders.txt.tagged" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/091318_ravens_bengals.txt.tagged" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/091618_browns_saints.txt.tagged" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/091618_cardinals_rams.txt.tagged" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/091618_chargers_bills.txt.tagged" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/091618_chiefs_steelers.txt.tagged" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/091618_colts_redskins.txt.tagged" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/091618_dolphins_jets.txt.tagged" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/091618_eagles_buccaneers.txt.tagged" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/091618_giants_cowboys.txt.tagged" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/091618_lions_49ers.txt.tagged" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/091618_panthers_falcons.txt.tagged" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/091618_patriots_jaguars.txt.tagged" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/091618_raiders_broncos.txt.tagged" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/091618_texans_titans.txt.tagged" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/091618_vikings_packers.txt.tagged" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/091718_seahawks_bears.txt.tagged" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/092018_jets_browns.txt.tagged" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/092318_49ers_chiefs.txt.tagged" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/092318_bears_cardinals.txt.tagged" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/092318_bengals_panthers.txt.tagged" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/092318_bills_vikings.txt.tagged" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/092318_broncos_ravens.txt.tagged" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/092318_chargers_rams.txt.tagged" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/092318_colts_eagles.txt.tagged" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/092318_cowboys_seahawks.txt.tagged" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/092318_giants_texans.txt.tagged" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/092318_packers_redskins.txt.tagged" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/092318_patriots_lions.txt.tagged" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/092318_raiders_dolphins.txt.tagged" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/092318_saints_falcons.txt.tagged" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/092318_titans_jaguars.txt.tagged" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/092418_steelers_buccaneers.txt.tagged" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/092718_vikings_rams.txt.tagged" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/093018_49ers_chargers.txt.tagged" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/093018_bengals_falcons.txt.tagged" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/093018_bills_packers.txt.tagged" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/093018_browns_raiders.txt.tagged" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/093018_buccaneers_bears.txt.tagged" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/093018_dolphins_patriots.txt.tagged" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/093018_eagles_titans.txt.tagged" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/093018_jets_jaguars.txt.tagged" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/093018_lions_cowboys.txt.tagged" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/093018_ravens_steelers.txt.tagged" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/093018_saints_giants.txt.tagged" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/093018_seahawks_cardinals.txt.tagged" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/093018_texans_colts.txt.tagged" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/100118_chiefs_broncos.txt.tagged" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/100418_colts_patriots.txt.tagged" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/100718_broncos_jets.txt.tagged" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/100718_cardinals_49ers.txt.tagged" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/100718_cowboys_texans.txt.tagged" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/100718_dolphins_bengals.txt.tagged" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/100718_falcons_steelers.txt.tagged" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/100718_giants_panthers.txt.tagged" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/100718_jaguars_chiefs.txt.tagged" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/100718_packers_lions.txt.tagged" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/100718_raiders_chargers.txt.tagged" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/100718_rams_seahawks.txt.tagged" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/100718_ravens_browns.txt.tagged" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/100718_titans_bills.txt.tagged" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/100718_vikings_eagles.txt.tagged" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/100818_redskins_saints.txt.tagged" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/101118_eagles_giants.txt.tagged" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/101418_bears_dolphins.txt.tagged" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/101418_bills_texans.txt.tagged" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/101418_buccaneers_falcons.txt.tagged" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/101418_cardinals_vikings.txt.tagged" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/101418_chargers_browns.txt.tagged" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/101418_chiefs_patriots.txt.tagged" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/101418_colts_jets.txt.tagged" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/101418_jaguars_cowboys.txt.tagged" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/101418_panthers_redskins.txt.tagged" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/101418_rams_broncos.txt.tagged" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/101418_ravens_titans.txt.tagged" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/101418_seahawks_raiders.txt.tagged" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/101418_steelers_browns.txt.tagged" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/101518_49ers_packers.txt.tagged" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/101818_broncos_cardinals.txt.tagged" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/102118_bengals_chiefs.txt.tagged" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/102118_bills_colts.txt.tagged" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/102118_browns_buccaneers.txt.tagged" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/102118_cowboys_redskins.txt.tagged" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/102118_lions_dolphins.txt.tagged" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/102118_panthers_eagles.txt.tagged" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/102118_patriots_bears.txt.tagged" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/102118_rams_49ers.txt.tagged" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/102118_saints_ravens.txt.tagged" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/102118_texans_jaguars.txt.tagged" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/102118_titans_chargers.txt.tagged" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/102118_vikings_jets.txt.tagged" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/102218_giants_falcons.txt.tagged" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/102518_dolphins_texans.txt.tagged" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/102818_49ers_cardinals.txt.tagged" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/102818_broncos_chiefs.txt.tagged" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/102818_browns_steelers.txt.tagged" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/102818_buccaneers_bengals.txt.tagged" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/102818_colts_raiders.txt.tagged" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/102818_eagles_jaguars.txt.tagged" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/102818_jets_bears.txt.tagged" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/102818_packers_rams.txt.tagged" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/102818_ravens_panthers.txt.tagged" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/102818_redskins_giants.txt.tagged" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/102818_seahawks_lions.txt.tagged" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/102918_patriots_bills.txt.tagged" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/110118_raiders_49ers.txt.tagged" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/110418_bears_bills.txt.tagged" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/110418_buccaneers_panthers.txt.tagged" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/110418_chargers_seahawks.txt.tagged" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/110418_chiefs_browns.txt.tagged" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/110418_falcons_redskins.txt.tagged" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/110418_jets_dolphins.txt.tagged" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/110418_lions_vikings.txt.tagged" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/110418_packers_patriots.txt.tagged" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/110418_rams_saints.txt.tagged" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/110418_steelers_ravens.txt.tagged" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/110418_texans_broncos.txt.tagged" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_train/110518_titans_cowboys.txt.tagged" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Sports_NER.tsv.model" afterPath="$PROJECT_DIR$/Sports_NER.tsv.model" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/StanfordCoreNLP/StanfordNER.class" afterPath="$PROJECT_DIR$/out/production/StanfordCoreNLP/StanfordNER.class" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/relationtripleinfo.txt" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/StanfordCoreNLP/EventExtractor.class" afterPath="$PROJECT_DIR$/out/production/StanfordCoreNLP/EventExtractor.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/features-true.txt" afterPath="$PROJECT_DIR$/features-true.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/StanfordNER.java" afterPath="$PROJECT_DIR$/src/StanfordNER.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/EventExtractor.java" afterPath="$PROJECT_DIR$/src/EventExtractor.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -200,10 +53,14 @@
       <file leaf-file-name="EventExtractor.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/EventExtractor.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="129" column="0" lean-forward="true" selection-start-line="129" selection-start-column="0" selection-end-line="129" selection-end-column="0" />
+            <state relative-caret-position="261">
+              <caret line="112" column="58" lean-forward="true" selection-start-line="112" selection-start-column="58" selection-end-line="112" selection-end-column="58" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#436#444#0" expanded="true" />
+                <element signature="e#1054#1070#0" expanded="true" />
+                <element signature="e#3366#3374#0" expanded="true" />
+                <element signature="e#4459#4475#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -370,7 +227,7 @@
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="EventExtractor" />
       <option name="VM_PARAMETERS" value="-Xmx2048m" />
-      <option name="PROGRAM_PARAMETERS" value="C:\Users\arjunb\Documents\workspace\StanfordCoreNLP\Sports_NER.tsv.model C:\Users\arjunb\Documents\workspace\StanfordCoreNLP\2018_nfl_regular_season" />
+      <option name="PROGRAM_PARAMETERS" value="C:\Users\arjunb\Documents\workspace\StanfordCoreNLP\Sports_NER.tsv.model C:\Users\arjunb\Documents\workspace\StanfordCoreNLP\unseen_files eventextractionresults.test" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
@@ -604,6 +461,10 @@
           <caret line="121" column="58" lean-forward="true" selection-start-line="121" selection-start-column="58" selection-end-line="121" selection-end-column="58" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#436#444#0" expanded="true" />
+            <element signature="e#1054#1070#0" expanded="true" />
+            <element signature="e#3366#3374#0" expanded="true" />
+            <element signature="e#4459#4475#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -678,10 +539,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/EventExtractor.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="129" column="0" lean-forward="true" selection-start-line="129" selection-start-column="0" selection-end-line="129" selection-end-column="0" />
+        <state relative-caret-position="261">
+          <caret line="112" column="58" lean-forward="true" selection-start-line="112" selection-start-column="58" selection-end-line="112" selection-end-column="58" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#436#444#0" expanded="true" />
+            <element signature="e#1054#1070#0" expanded="true" />
+            <element signature="e#3366#3374#0" expanded="true" />
+            <element signature="e#4459#4475#0" expanded="true" />
           </folding>
         </state>
       </provider>

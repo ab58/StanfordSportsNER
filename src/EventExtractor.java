@@ -104,7 +104,7 @@ public class EventExtractor {
         StanfordCoreNLP pipeline = new StanfordCoreNLP(props);
 
         CRFClassifier model = CRFClassifier.getClassifier(new File(args[0]));
-        PrintWriter fileOut = new PrintWriter("relationtripleinfo.txt");
+        PrintWriter fileOut = new PrintWriter(args[2]);
 
         File folder = new File(args[1]);
         File[] files = folder.listFiles();
