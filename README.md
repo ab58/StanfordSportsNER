@@ -1,6 +1,7 @@
 # StanfordSportsNER
 
-***LATEST*** I have added an EVENT EXTRACTOR to this project. I take the tagged NER output from the model and run it over each line of each file, and make use of StanfordCoreNLP's OpenIE and RelationTriple classes. A "triple" (subject, relation, object) is rendered, if it contains a named entity guessed by the NER model. The results for this are pretty rudimentary right now but some of the extracted events look like they make sense, so I'm happy with these preliminary results. I hope to make a more sophisticated Event Extraction model, harnessing my strong NER model, for this soon.
+***LATEST*** 
+I have added an EVENT EXTRACTOR to this project. I take the tagged NER output from the model and run it over each line of each file, and make use of StanfordCoreNLP's OpenIE and RelationTriple classes. A "triple" (subject, relation, object) is rendered, if it contains a named entity guessed by the NER model. The results for this are pretty rudimentary right now but some of the extracted events look like they make sense, so I'm happy with these preliminary results. I hope to make a more sophisticated Event Extraction model, harnessing my strong NER model, for this soon.
 
 This is a Named Entity Recognition (NER) model for identifying named entities within the sports domain. I have trained on NFL game recap 
 articles retrieved from cbssports.com. In the initial commit (11/18/18), game recap articles of the first 9 weeks of the 2018 NFL season 
