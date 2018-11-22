@@ -95,6 +95,16 @@ public class EventExtractor {
         return String.join(" ",fileLines);
     }
 
+    //method that takes in a list and removes all strings whose token length is less than n
+    public static void removeShortStrings(Set<RelationTriple> events, int n) {
+
+        for (RelationTriple rt : events) {
+            if (formattedTriple(rt).split(" ").length < n) {
+                events.remove(rt);
+            }
+        }
+    }
+
     public static void extractEvents(String fileFolder, String resultsFile, StanfordCoreNLP pipeline,
                                      CRFClassifier model) throws Exception {
 
@@ -136,7 +146,8 @@ public class EventExtractor {
 
             StringLengthSorter sLenSorter = new StringLengthSorter();
             ArrayList<RelationTriple> eventsAsList = new ArrayList<>(events);
-            Collections.sort(eventsAsList, sLenSorter);
+            Collections.sort(eventsAsList);
+            //Collections.sort(eventsAsList, sLenSorter);
             /*
             fileOut.println("\nFull list of events in this file ("+eventsAsList.size()+")");
             for (RelationTriple event : eventsAsList) {
@@ -145,8 +156,12 @@ public class EventExtractor {
             */
 
             eliminateShortenedEvents(events);
+            removeShortStrings(events, 5);
             eventsAsList = new ArrayList<>(events);
+            //Collections.sort(eventsAsList);
             Collections.sort(eventsAsList, sLenSorter);
+
+
             fileOut.println("\nEVENTS FOUND IN THIS FILE (" + eventsAsList.size() + ")\n");
             for (RelationTriple event : eventsAsList) {
                 fileOut.println(formattedTriple(event));
