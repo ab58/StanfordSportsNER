@@ -30717,3 +30717,11 @@ ALL	136722	141	141	0.99987797334149	0.965768129562057	0.9800372743300856
 Total Correct Tags: 136722
 Total Incorrect Tags: 141
 Accuracy: 0.9989697726924004
+
+Accuracies of the "true" named entities (i.e. without the "O" tag)
+Total Correct Tags: 16502
+False Positives: 16
+False Negatives: 136
+Precision: 0.9990313597287808
+Recall: 0.9918259406178628
+F-Score: 0.9954156110507901

@@ -3156,3 +3156,11 @@ ALL	14187	133	133	0.7257215346557689	0.5799212997896696	0.6296469338991446
 Total Correct Tags: 14187
 Total Incorrect Tags: 133
 Accuracy: 0.9907122905027933
+
+Accuracies of the "true" named entities (i.e. without the "O" tag)
+Total Correct Tags: 1568
+False Positives: 61
+False Negatives: 125
+Precision: 0.9625537139349294
+Recall: 0.926166568222091
+F-Score: 0.9440096327513546

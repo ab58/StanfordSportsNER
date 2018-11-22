@@ -95,23 +95,18 @@ public class EventExtractor {
         return String.join(" ",fileLines);
     }
 
-    public static void main(String[]args) throws Exception {
+    public static void extractEvents(String fileFolder, String resultsFile, StanfordCoreNLP pipeline,
+                                     CRFClassifier model) throws Exception {
 
-        long startTime = System.currentTimeMillis();
 
-        Properties props = new Properties();
-        props.setProperty("annotators", "tokenize,ssplit,pos,lemma,depparse,natlog,openie");
-        StanfordCoreNLP pipeline = new StanfordCoreNLP(props);
+        PrintWriter fileOut = new PrintWriter(resultsFile);
 
-        CRFClassifier model = CRFClassifier.getClassifier(new File(args[0]));
-        PrintWriter fileOut = new PrintWriter(args[2]);
-
-        File folder = new File(args[1]);
+        File folder = new File(fileFolder);
         File[] files = folder.listFiles();
-        for (File file:files) {
+        for (File file : files) {
 
-            System.out.println("\nFILE: "+file.getName());
-            fileOut.println("\nFILE: "+file.getName());
+            System.out.println("\nFILE: " + file.getName());
+            fileOut.println("\nFILE: " + file.getName());
             Scanner fileIn = new Scanner(file);
             //String text = renderFileAsString(fileIn);
 
@@ -125,7 +120,6 @@ public class EventExtractor {
                 for (CoreMap sentence : doc.get(CoreAnnotations.SentencesAnnotation.class)) {
                     Collection<RelationTriple> triples = sentence.get(NaturalLogicAnnotations.RelationTriplesAnnotation.class);
                     for (RelationTriple triple : triples) {
-
 
 
                         String taggedSubject = StanfordNER.doTagging(model, triple.subjectGloss());
@@ -153,13 +147,27 @@ public class EventExtractor {
             eliminateShortenedEvents(events);
             eventsAsList = new ArrayList<>(events);
             Collections.sort(eventsAsList, sLenSorter);
-            fileOut.println("\nEVENTS FOUND IN THIS FILE ("+eventsAsList.size()+")\n");
+            fileOut.println("\nEVENTS FOUND IN THIS FILE (" + eventsAsList.size() + ")\n");
             for (RelationTriple event : eventsAsList) {
                 fileOut.println(formattedTriple(event));
             }
         }
 
         fileOut.close();
+    }
+
+    public static void main(String[]args) throws Exception {
+
+        long startTime = System.currentTimeMillis();
+
+        Properties props = new Properties();
+        props.setProperty("annotators", "tokenize,ssplit,pos,lemma,depparse,natlog,openie");
+        StanfordCoreNLP pipeline = new StanfordCoreNLP(props);
+
+        CRFClassifier model = CRFClassifier.getClassifier(new File(args[0]));
+
+        extractEvents(args[1], args[2], pipeline, model);
+        extractEvents(args[3], args[4], pipeline, model);
 
         long endTime = System.currentTimeMillis();
         long seconds = (endTime - startTime) / 1000;

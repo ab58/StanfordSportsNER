@@ -2,11 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4a3af890-f2af-4da0-bb0a-17bb5328abd1" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/relationtripleinfo.txt" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/StanfordCoreNLP/EventExtractor.class" afterPath="$PROJECT_DIR$/out/production/StanfordCoreNLP/EventExtractor.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/StanfordCoreNLP/StanfordNER.class" afterPath="$PROJECT_DIR$/out/production/StanfordCoreNLP/StanfordNER.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2018_MLB_Playoffs.tsv" afterPath="$PROJECT_DIR$/2018_MLB_Playoffs.tsv" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/features-true.txt" afterPath="$PROJECT_DIR$/features-true.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/results.test" afterPath="$PROJECT_DIR$/results.test" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/results.train" afterPath="$PROJECT_DIR$/results.train" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/EventExtractor.java" afterPath="$PROJECT_DIR$/src/EventExtractor.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/StanfordNER.java" afterPath="$PROJECT_DIR$/src/StanfordNER.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,10 +24,11 @@
       <file leaf-file-name="StanfordNER.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/StanfordNER.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="6358">
-              <caret line="383" column="86" lean-forward="false" selection-start-line="379" selection-start-column="8" selection-end-line="383" selection-end-column="86" />
+            <state relative-caret-position="147">
+              <caret line="234" column="36" lean-forward="true" selection-start-line="234" selection-start-column="36" selection-end-line="234" selection-end-column="36" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#4033#4049#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -33,9 +37,11 @@
       <file leaf-file-name="TSVConvert.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/TSVConvert.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" column="17" lean-forward="false" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="17" />
-              <folding />
+            <state relative-caret-position="306">
+              <caret line="18" column="30" lean-forward="false" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="30" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -43,8 +49,8 @@
       <file leaf-file-name="propfile.txt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/propfile.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="527">
-              <caret line="31" column="17" lean-forward="false" selection-start-line="31" selection-start-column="17" selection-end-line="31" selection-end-column="17" />
+            <state relative-caret-position="163">
+              <caret line="28" column="17" lean-forward="false" selection-start-line="28" selection-start-column="17" selection-end-line="28" selection-end-column="17" />
               <folding />
             </state>
           </provider>
@@ -53,14 +59,14 @@
       <file leaf-file-name="EventExtractor.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/EventExtractor.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="261">
-              <caret line="112" column="58" lean-forward="true" selection-start-line="112" selection-start-column="58" selection-end-line="112" selection-end-column="58" />
+            <state relative-caret-position="74">
+              <caret line="159" column="0" lean-forward="true" selection-start-line="159" selection-start-column="0" selection-end-line="159" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#436#444#0" expanded="true" />
                 <element signature="e#1054#1070#0" expanded="true" />
                 <element signature="e#3366#3374#0" expanded="true" />
-                <element signature="e#4459#4475#0" expanded="true" />
+                <element signature="e#4257#4273#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -77,19 +83,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>AWARD</find>
-      <find>Smith and Peterson were playing their first game as Redskins and the two veterans made an impact from the start .</find>
-      <find>Marrone was widely criticized for getting conservative in the title game . The Patriots trailed 20 - 10 in the fourth quarter of that one before rallying to win 24 - 20 and advancing to the Super Bowl .</find>
-      <find>Dolphins : Play next Sunday at New England , where they ' ve lost nine games in a row .</find>
-      <find>In its two losses , New England 's offense struggled to find its rhythm and sustain drives on third down .</find>
-      <find>' ' We have a team right now that is starting to believe in themselves , and rightfully so , '' Mayfield said . ' ' I take a lot of pride in the culture change and being positive , always moving forward and doing your job no matter what the situation is . That was big for us . ''</find>
-      <find />
-      <find>evaluation</find>
-      <find>evaluation met</find>
-      <find>Accuracy</find>
-      <find>sentences are not the same</find>
-      <find>sentences are not</find>
-      <find>evaluation metrics</find>
       <find>Dont/PLAYER`a</find>
       <find>Dont</find>
       <find>Dont`</find>
@@ -107,6 +100,19 @@
       <find>event1: victory ended Luck 's chance</find>
       <find>Cincinnati has</find>
       <find>doTagging</find>
+      <find>exclusively</find>
+      <find>evaluation</find>
+      <find>uncann</find>
+      <find>evaluation metrics</find>
+      <find>unca</find>
+      <find>evaluation</find>
+      <find>sentence</find>
+      <find>evaluation met</find>
+      <find>sentences are not</find>
+      <find>m..</find>
+      <find>sentences are not the same</find>
+      <find>replaceA</find>
+      <find>correct++</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -121,9 +127,9 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/TSVConvert.java" />
+        <option value="$PROJECT_DIR$/src/OpenIESample.java" />
         <option value="$PROJECT_DIR$/src/propfile.txt" />
         <option value="$PROJECT_DIR$/src/StanfordNER.java" />
-        <option value="$PROJECT_DIR$/src/OpenIESample.java" />
         <option value="$PROJECT_DIR$/src/EventExtractor.java" />
       </list>
     </option>
@@ -135,9 +141,10 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="344" />
+    <option name="x" value="382" />
+    <option name="y" value="1" />
     <option name="width" value="1217" />
-    <option name="height" value="857" />
+    <option name="height" value="858" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -227,7 +234,7 @@
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="EventExtractor" />
       <option name="VM_PARAMETERS" value="-Xmx2048m" />
-      <option name="PROGRAM_PARAMETERS" value="C:\Users\arjunb\Documents\workspace\StanfordCoreNLP\Sports_NER.tsv.model C:\Users\arjunb\Documents\workspace\StanfordCoreNLP\unseen_files eventextractionresults.test" />
+      <option name="PROGRAM_PARAMETERS" value="C:\Users\arjunb\Documents\workspace\StanfordCoreNLP\Sports_NER.tsv.model C:\Users\arjunb\Documents\workspace\StanfordCoreNLP\2018_nfl_regular_season eventextractionresults.train C:\Users\arjunb\Documents\workspace\StanfordCoreNLP\unseen_files eventextractionresults.test" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
@@ -269,7 +276,7 @@
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="TSVConvert" />
       <option name="VM_PARAMETERS" value="" />
-      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="C:\Users\arjunb\Documents\workspace\StanfordCoreNLP\unseen_mlb unseen_mlb.tsv" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
@@ -369,8 +376,8 @@
     <recent_temporary>
       <list size="3">
         <item index="0" class="java.lang.String" itemvalue="Application.EventExtractor" />
-        <item index="1" class="java.lang.String" itemvalue="Application.OpenIESample" />
-        <item index="2" class="java.lang.String" itemvalue="Application.StanfordNER" />
+        <item index="1" class="java.lang.String" itemvalue="Application.StanfordNER" />
+        <item index="2" class="java.lang.String" itemvalue="Application.OpenIESample" />
       </list>
     </recent_temporary>
   </component>
@@ -388,18 +395,18 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="344" y="0" width="1217" height="857" extended-state="0" />
+    <frame x="382" y="1" width="1217" height="858" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32827586" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3278237" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.7713904" sideWeight="0.50291425" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32929993" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.34068966" sideWeight="0.49708575" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.49173555" sideWeight="0.49708575" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -424,7 +431,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="1" />
+      <option name="time" value="2" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -435,6 +442,7 @@
           <caret line="383" column="86" lean-forward="false" selection-start-line="379" selection-start-column="8" selection-end-line="383" selection-end-column="86" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#4033#4049#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -443,7 +451,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="1" column="17" lean-forward="false" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="17" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -464,7 +474,7 @@
             <element signature="e#436#444#0" expanded="true" />
             <element signature="e#1054#1070#0" expanded="true" />
             <element signature="e#3366#3374#0" expanded="true" />
-            <element signature="e#4459#4475#0" expanded="true" />
+            <element signature="e#4257#4273#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -475,6 +485,7 @@
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#4033#4049#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -510,43 +521,62 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/OpenIESample.java" />
     <entry file="file://$PROJECT_DIR$/src/TSVConvert.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="17" lean-forward="false" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/propfile.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="527">
-          <caret line="31" column="17" lean-forward="false" selection-start-line="31" selection-start-column="17" selection-end-line="31" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/OpenIESample.java" />
-    <entry file="file://$PROJECT_DIR$/src/StanfordNER.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6358">
-          <caret line="383" column="86" lean-forward="false" selection-start-line="379" selection-start-column="8" selection-end-line="383" selection-end-column="86" />
+        <state relative-caret-position="306">
+          <caret line="18" column="30" lean-forward="false" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="30" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/tagged_files_test/102818_redsox_dodgers_ws_gm5.txt.tagged">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tagged_files_test/102418_dodgers_redsox_ws_gm2.txt.tagged">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="14" column="62" lean-forward="true" selection-start-line="14" selection-start-column="62" selection-end-line="14" selection-end-column="62" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/propfile.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="163">
+          <caret line="28" column="17" lean-forward="false" selection-start-line="28" selection-start-column="17" selection-end-line="28" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/StanfordNER.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="234" column="36" lean-forward="true" selection-start-line="234" selection-start-column="36" selection-end-line="234" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#4033#4049#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/EventExtractor.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="261">
-          <caret line="112" column="58" lean-forward="true" selection-start-line="112" selection-start-column="58" selection-end-line="112" selection-end-column="58" />
+        <state relative-caret-position="74">
+          <caret line="159" column="0" lean-forward="true" selection-start-line="159" selection-start-column="0" selection-end-line="159" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#436#444#0" expanded="true" />
             <element signature="e#1054#1070#0" expanded="true" />
             <element signature="e#3366#3374#0" expanded="true" />
-            <element signature="e#4459#4475#0" expanded="true" />
+            <element signature="e#4257#4273#0" expanded="true" />
           </folding>
         </state>
       </provider>

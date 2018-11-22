@@ -93,6 +93,9 @@ public class StanfordNER {
         int incorrect = 0;
         int passes = 0;
         int fails = 0;
+        int correctWithoutO = 0;
+        int falsePosWithoutO = 0;
+        int falseNegWithoutO = 0;
         //The following HashMap will track the true positives, false, positives,
         //and false negatives for every NER tags in the model. These numbers will
         //subsequently be used to calculate precision, recall, and f-scores.
@@ -137,6 +140,7 @@ public class StanfordNER {
                 for (Object ner_tag : model.classIndex.objectsList()) {
                     rawSentence = rawSentence.replaceAll("/"+ner_tag.toString(), "");
                 }
+                rawSentence = rawSentence.replaceAll("(\\w)[.][.]", "$1.");
                 rawSentence = rawSentence.trim();
                 rawTags = rawTags.trim();
 
@@ -222,10 +226,19 @@ public class StanfordNER {
 
                     if (rawTagsArr[i].equals(rtgEvalArr[i])) {
                         correct++;
+                        if (!rtgEvalArr[i].equals("O")) {
+                            correctWithoutO++;
+                        }
                         //increment true positive count for rawTagsArr[i] in prfValues
                         prfValues.get(rawTagsArr[i])[0]++;
                     } else {
                         incorrect++;
+                        if (!rawTagsArr[i].equals("O")) {
+                            falsePosWithoutO++;
+                        }
+                        if (!rtgEvalArr[i].equals("O")) {
+                            falseNegWithoutO++;
+                        }
                         incorrectInLine++;
                         String attractor = rawTagsArr[i];
                         String emitter = rtgEvalArr[i];
@@ -328,6 +341,27 @@ public class StanfordNER {
         resultsFile.println("\nTotal Correct Tags: "+correct);
         resultsFile.println("Total Incorrect Tags: "+incorrect);
         resultsFile.println("Accuracy: "+(double)correct/(correct+incorrect));
+
+        double precisionWithoutO = (double)correctWithoutO/(correctWithoutO+falsePosWithoutO);
+        double recallWithoutO = (double)correctWithoutO/(correctWithoutO+falseNegWithoutO);
+        double fScoreWithoutO = (precisionWithoutO*recallWithoutO)/(precisionWithoutO+recallWithoutO)*2;
+
+        System.out.println("\nAccuracies of the \"true\" named entities (i.e. without the \"O\" tag)");
+        System.out.println("Total Correct Tags: "+correctWithoutO);
+        System.out.println("False Positives: "+falsePosWithoutO);
+        System.out.println("False Negatives: "+falseNegWithoutO);
+        System.out.println("Precision: "+precisionWithoutO);
+        System.out.println("Recall: "+recallWithoutO);
+        System.out.println("F-Score: "+fScoreWithoutO);
+
+        resultsFile.println("\nAccuracies of the \"true\" named entities (i.e. without the \"O\" tag)");
+        resultsFile.println("Total Correct Tags: "+correctWithoutO);
+        resultsFile.println("False Positives: "+falsePosWithoutO);
+        resultsFile.println("False Negatives: "+falseNegWithoutO);
+        resultsFile.println("Precision: "+precisionWithoutO);
+        resultsFile.println("Recall: "+recallWithoutO);
+        resultsFile.println("F-Score: "+fScoreWithoutO);
+
 
         return (double)correct/(correct+incorrect);
     }
