@@ -146,8 +146,8 @@ public class EventExtractor {
 
             StringLengthSorter sLenSorter = new StringLengthSorter();
             ArrayList<RelationTriple> eventsAsList = new ArrayList<>(events);
-            Collections.sort(eventsAsList);
-            //Collections.sort(eventsAsList, sLenSorter);
+            //Collections.sort(eventsAsList);
+            Collections.sort(eventsAsList, sLenSorter);
             /*
             fileOut.println("\nFull list of events in this file ("+eventsAsList.size()+")");
             for (RelationTriple event : eventsAsList) {
