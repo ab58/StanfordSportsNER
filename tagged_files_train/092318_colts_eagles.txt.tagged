@@ -1,5 +1,5 @@
 Carson/PLAYER Wentz/PLAYER leads/O Eagles/TEAM to/O 20/O -/O 16/O comeback/O win/O over/O Colts/TEAM
-PHILADELPHIA/CITY -LRB-/O AP/O -RRB-/O Carson/PLAYER Wentz/PLAYER shook/O off/O rust/O and/O defenders/O ./O
+PHILADELPHIA/CITY -LRB-/O AP/ORG -RRB-/O Carson/PLAYER Wentz/PLAYER shook/O off/O rust/O and/O defenders/O ./O
 Wentz/PLAYER threw/O a/O touchdown/O pass/O on/O his/O first/O drive/O in/O nine/O months/O ,/O Wendell/PLAYER Smallwood/PLAYER ran/O in/O from/O the/O 4/O for/O the/O go/O -/O ahead/O score/O and/O the/O Philadelphia/TEAM Eagles/TEAM held/O on/O for/O a/O 20/O -/O 16/O victory/O over/O the/O Indianapolis/TEAM Colts/TEAM on/O Sunday/DATE ./O
 '/O '/O It/O was/O a/O long/O time/O coming/O ,/O ''/O Wentz/PLAYER said/O after/O playing/O his/O first/O game/O since/O he/O tore/O two/O ligaments/O in/O his/O left/O knee/O last/O Dec./DATE 10/DATE ./O '/O '/O It/O felt/O great/O ./O ''/O
 Adam/PLAYER Vinatieri/PLAYER tied/O Morten/PLAYER Andersen/PLAYER 's/O career/O record/O of/O 565/O field/O goals/O by/O connecting/O on/O all/O three/O tries/O ,/O but/O the/O Colts/TEAM -LRB-/O 1/O -/O 2/O -RRB-/O could/O n't/O take/O advantage/O of/O two/O turnovers/O by/O Wentz/PLAYER inside/O the/O 20/O in/O the/O second/O half/O ./O
@@ -20,7 +20,7 @@ First/O ,/O he/O stared/O down/O Ertz/PLAYER and/O floated/O a/O pass/O that/O w
 After/O Jake/PLAYER Elliott/PLAYER answered/O with/O a/O 24-yarder/O on/O the/O following/O drive/O ,/O Margus/PLAYER Hunt/PLAYER knocked/O the/O ball/O out/O of/O Wentz/PLAYER 's/O hands/O and/O recovered/O the/O fumble/O at/O the/O Eagles/TEAM 13/O ./O Philadelphia/TEAM 's/O defense/O again/O held/O and/O Vinatieri/PLAYER made/O a/O 28-yard/O field/O goal/O to/O give/O Indianapolis/TEAM a/O 16/O -/O 13/O lead/O ./O
 '/O '/O Those/O are/O things/O that/O ca/O n't/O happen/O ,/O ''/O Eagles/TEAM coach/O Doug/BOSS Pederson/BOSS said/O of/O the/O turnovers/O ./O '/O '/O Overall/O ,/O for/O his/O first/O time/O back/O ,/O not/O so/O bad/O ./O ''/O
 Luck/PLAYER threw/O a/O 5-yard/O TD/O pass/O to/O Ryan/PLAYER Grant/PLAYER to/O tie/O it/O 7/O -/O 7/O after/O Elliott/PLAYER missed/O a/O 55-yard/O field/O goal/O wide/O left/O ./O
-QB/O COMPARISON/PLAYER
+QB/O COMPARISON/O
 Colts/TEAM :/O Luck/PLAYER was/O 25/O of/O 40/O for/O 164/O yards/O ,/O one/O TD/O
 Eagles/TEAM :/O Wentz/PLAYER finished/O 25/O of/O 37/O for/O 255/O yards/O ,/O one/O TD/O and/O one/O pick/O ./O
 SPOILED/O RETURN/O

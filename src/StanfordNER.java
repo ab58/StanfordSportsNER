@@ -152,6 +152,7 @@ public class StanfordNER {
                         if (goldExample.equals("")) {
                             break;
                         }
+                        //System.out.println("goldExample: "+goldExample);
                         String goldToken = goldExample.split("\t")[0];
                         String goldTag = goldExample.split("\t")[1];
 
