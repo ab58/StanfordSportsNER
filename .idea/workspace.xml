@@ -2,69 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4a3af890-f2af-4da0-bb0a-17bb5328abd1" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_test/110818_panthers_steelers.txt.tagged" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_test/111118_bills_jets.txt.tagged" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_test/111118_cardinals_chiefs.txt.tagged" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_test/111118_chargers_raiders.txt.tagged" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_test/111118_cowboys_eagles.txt.tagged" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_test/111118_dolphins_packers.txt.tagged" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_test/111118_falcons_browns.txt.tagged" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_test/111118_jaguars_colts.txt.tagged" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_test/111118_lions_bears.txt.tagged" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_test/111118_patriots_titans.txt.tagged" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_test/111118_redskins_buccaneers.txt.tagged" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_test/111118_saints_bengals.txt.tagged" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_test/111118_seahawks_rams.txt.tagged" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tagged_files_test/111218_giants_49ers.txt.tagged" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/unseen_files/110818_panthers_steelers.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/unseen_files/111118_bills_jets.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/unseen_files/111118_cardinals_chiefs.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/unseen_files/111118_chargers_raiders.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/unseen_files/111118_cowboys_eagles.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/unseen_files/111118_dolphins_packers.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/unseen_files/111118_falcons_browns.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/unseen_files/111118_jaguars_colts.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/unseen_files/111118_lions_bears.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/unseen_files/111118_patriots_titans.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/unseen_files/111118_redskins_buccaneers.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/unseen_files/111118_saints_bengals.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/unseen_files/111118_seahawks_rams.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/unseen_files/111218_giants_49ers.txt" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Sports_NER.tsv.model" afterPath="$PROJECT_DIR$/Sports_NER.tsv.model" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/StanfordCoreNLP/StanfordNER.class" afterPath="$PROJECT_DIR$/out/production/StanfordCoreNLP/StanfordNER.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Sports_NER.tsv" afterPath="$PROJECT_DIR$/Sports_NER.tsv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eventextractionresults.test" afterPath="$PROJECT_DIR$/eventextractionresults.test" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eventextractionresults.train" afterPath="$PROJECT_DIR$/eventextractionresults.train" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/features-true.txt" afterPath="$PROJECT_DIR$/features-true.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/results.test" afterPath="$PROJECT_DIR$/results.test" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/results.train" afterPath="$PROJECT_DIR$/results.train" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/StanfordNER.java" afterPath="$PROJECT_DIR$/src/StanfordNER.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tagged_files_train/090618_falcons_eagles.txt.tagged" afterPath="$PROJECT_DIR$/tagged_files_train/090618_falcons_eagles.txt.tagged" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tagged_files_train/090918_bears_packers.txt.tagged" afterPath="$PROJECT_DIR$/tagged_files_train/090918_bears_packers.txt.tagged" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tagged_files_train/091318_ravens_bengals.txt.tagged" afterPath="$PROJECT_DIR$/tagged_files_train/091318_ravens_bengals.txt.tagged" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tagged_files_train/091618_cardinals_rams.txt.tagged" afterPath="$PROJECT_DIR$/tagged_files_train/091618_cardinals_rams.txt.tagged" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tagged_files_train/091618_chargers_bills.txt.tagged" afterPath="$PROJECT_DIR$/tagged_files_train/091618_chargers_bills.txt.tagged" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tagged_files_train/091618_chiefs_steelers.txt.tagged" afterPath="$PROJECT_DIR$/tagged_files_train/091618_chiefs_steelers.txt.tagged" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tagged_files_train/091618_raiders_broncos.txt.tagged" afterPath="$PROJECT_DIR$/tagged_files_train/091618_raiders_broncos.txt.tagged" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tagged_files_train/091618_vikings_packers.txt.tagged" afterPath="$PROJECT_DIR$/tagged_files_train/091618_vikings_packers.txt.tagged" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tagged_files_train/091718_seahawks_bears.txt.tagged" afterPath="$PROJECT_DIR$/tagged_files_train/091718_seahawks_bears.txt.tagged" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tagged_files_train/092318_broncos_ravens.txt.tagged" afterPath="$PROJECT_DIR$/tagged_files_train/092318_broncos_ravens.txt.tagged" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tagged_files_train/092318_chargers_rams.txt.tagged" afterPath="$PROJECT_DIR$/tagged_files_train/092318_chargers_rams.txt.tagged" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tagged_files_train/092318_colts_eagles.txt.tagged" afterPath="$PROJECT_DIR$/tagged_files_train/092318_colts_eagles.txt.tagged" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tagged_files_train/092318_giants_texans.txt.tagged" afterPath="$PROJECT_DIR$/tagged_files_train/092318_giants_texans.txt.tagged" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tagged_files_train/092318_patriots_lions.txt.tagged" afterPath="$PROJECT_DIR$/tagged_files_train/092318_patriots_lions.txt.tagged" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tagged_files_train/093018_bills_packers.txt.tagged" afterPath="$PROJECT_DIR$/tagged_files_train/093018_bills_packers.txt.tagged" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tagged_files_train/093018_texans_colts.txt.tagged" afterPath="$PROJECT_DIR$/tagged_files_train/093018_texans_colts.txt.tagged" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tagged_files_train/100718_packers_lions.txt.tagged" afterPath="$PROJECT_DIR$/tagged_files_train/100718_packers_lions.txt.tagged" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tagged_files_train/100718_vikings_eagles.txt.tagged" afterPath="$PROJECT_DIR$/tagged_files_train/100718_vikings_eagles.txt.tagged" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tagged_files_train/101418_steelers_browns.txt.tagged" afterPath="$PROJECT_DIR$/tagged_files_train/101418_steelers_browns.txt.tagged" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tagged_files_train/101518_49ers_packers.txt.tagged" afterPath="$PROJECT_DIR$/tagged_files_train/101518_49ers_packers.txt.tagged" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tagged_files_train/102118_patriots_bears.txt.tagged" afterPath="$PROJECT_DIR$/tagged_files_train/102118_patriots_bears.txt.tagged" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tagged_files_train/102118_texans_jaguars.txt.tagged" afterPath="$PROJECT_DIR$/tagged_files_train/102118_texans_jaguars.txt.tagged" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tagged_files_train/102818_49ers_cardinals.txt.tagged" afterPath="$PROJECT_DIR$/tagged_files_train/102818_49ers_cardinals.txt.tagged" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tagged_files_train/102818_browns_steelers.txt.tagged" afterPath="$PROJECT_DIR$/tagged_files_train/102818_browns_steelers.txt.tagged" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tagged_files_train/102818_seahawks_lions.txt.tagged" afterPath="$PROJECT_DIR$/tagged_files_train/102818_seahawks_lions.txt.tagged" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tagged_files_train/110418_chiefs_browns.txt.tagged" afterPath="$PROJECT_DIR$/tagged_files_train/110418_chiefs_browns.txt.tagged" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/unseen_files.tsv" afterPath="$PROJECT_DIR$/unseen_files.tsv" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -103,20 +44,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="propfile.txt" pinned="false" current-in-tab="true">
+      <file leaf-file-name="propfile.txt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/propfile.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="112">
-              <caret line="25" column="12" lean-forward="false" selection-start-line="25" selection-start-column="12" selection-end-line="25" selection-end-column="12" />
+            <state relative-caret-position="231">
+              <caret line="32" column="0" lean-forward="false" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="EventExtractor.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="EventExtractor.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/EventExtractor.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2465">
+            <state relative-caret-position="240">
               <caret line="156" column="0" lean-forward="false" selection-start-line="156" selection-start-column="0" selection-end-line="156" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -194,8 +135,7 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="484" />
-    <option name="y" value="5" />
+    <option name="x" value="462" />
     <option name="width" value="1217" />
     <option name="height" value="858" />
   </component>
@@ -282,7 +222,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.StanfordNER">
+  <component name="RunManager" selected="Application.EventExtractor">
     <configuration name="EventExtractor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="EventExtractor" />
@@ -428,8 +368,8 @@
     </list>
     <recent_temporary>
       <list size="3">
-        <item index="0" class="java.lang.String" itemvalue="Application.StanfordNER" />
-        <item index="1" class="java.lang.String" itemvalue="Application.EventExtractor" />
+        <item index="0" class="java.lang.String" itemvalue="Application.EventExtractor" />
+        <item index="1" class="java.lang.String" itemvalue="Application.StanfordNER" />
         <item index="2" class="java.lang.String" itemvalue="Application.OpenIESample" />
       </list>
     </recent_temporary>
@@ -448,7 +388,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="484" y="5" width="1217" height="858" extended-state="0" />
+    <frame x="462" y="0" width="1217" height="858" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -618,16 +558,6 @@
     <entry file="file://$PROJECT_DIR$/src/OpenIESample.java" />
     <entry file="file://$PROJECT_DIR$/tagged_files_test/102818_redsox_dodgers_ws_gm5.txt.tagged" />
     <entry file="file://$PROJECT_DIR$/tagged_files_test/102418_dodgers_redsox_ws_gm2.txt.tagged" />
-    <entry file="file://$PROJECT_DIR$/src/EventExtractor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2465">
-          <caret line="156" column="0" lean-forward="false" selection-start-line="156" selection-start-column="0" selection-end-line="156" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/TSVConvert.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
@@ -653,9 +583,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/propfile.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="25" column="12" lean-forward="false" selection-start-line="25" selection-start-column="12" selection-end-line="25" selection-end-column="12" />
+        <state relative-caret-position="231">
+          <caret line="32" column="0" lean-forward="false" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/EventExtractor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="156" column="0" lean-forward="false" selection-start-line="156" selection-start-column="0" selection-end-line="156" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
